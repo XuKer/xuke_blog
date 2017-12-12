@@ -9,21 +9,15 @@ atom-baseurl: "https://xuker.github.io"
 disqus: "gopherwood"
 
 navigations:
-  - title: Archive
+  - title: 存档
     class: fa fa-list-ul
     href: /archive.html
-  - title: Tags
+  - title: 标签
     class: fa fa-tags
     href: /tags.html
-  - title: About
+  - title: A关于
     class: fa fa-user
     href: /about.html
-  - title: Gallery
-    class: fa fa-film
-    href: https://xuker.github.io
-  - title: Subscribe
-    class: fa fa-rss
-    href: /atom.xml
 
 
 baseurl: /xuker.github.io
