@@ -1,0 +1,8 @@
+---
+title: 404
+layout: page
+---
+
+你好像走丢了 :(
+
+你可以返回首页 [look around](/index.html)
