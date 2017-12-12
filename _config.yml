@@ -4,7 +4,7 @@ permalink: /:year/:month/:day/:title.html
 name: "XuKe"
 markdown: rdiscount
 
-author: "xuke"
+author: "XuKe"
 atom-baseurl: "https://xuker.github.io"
 disqus: "gopherwood"
 
@@ -15,7 +15,7 @@ navigations:
   - title: 标签
     class: fa fa-tags
     href: /tags.html
-  - title: A关于
+  - title: 关于
     class: fa fa-user
     href: /about.html
 
