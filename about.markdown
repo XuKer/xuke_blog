@@ -15,7 +15,3 @@ layout: page
 
 > wxk1035#gmail.com.
 
-
-> [@o_lll](https://twitter.com/#!/o_lll)
-
-to reach me
