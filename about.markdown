@@ -9,7 +9,7 @@ layout: page
 
 关注我
 
-> [Github](https://github.com/xuker)
+> [XuKer](https://github.com/xuker)
 
 联系我
 
