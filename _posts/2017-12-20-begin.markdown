@@ -1,0 +1,12 @@
+---
+title: 2017
+layout: post
+guid: urn:uuid:de8d598d-6f35-4c7b-ab23-1951062dadfc
+tags:
+  - 开始
+---
+![Shadow](/media/files/2017/12/12/shida.jpg)
+
+ -  完成了整体框架的搭建
+
+
