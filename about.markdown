@@ -13,5 +13,5 @@ layout: page
 
 联系我
 
-> wxk1035#gmail.com.
+> <wxk1035@mail.com>
 
